@@ -1,4 +1,4 @@
-Check Your Knowledge about different country 
+Check Your Knowledge about different countrys 
 ---------------------------------------------------
 This is a game built using Javascript and hosted on ReplIt platform.
 
